@@ -237,4 +237,4 @@ Across both modules, the common lesson was that reconnaissance is powerful preci
 
 The complete penetration testing report, including detailed explanations, findings, risk analysis, recommendations and supporting documentation, can be accessed below.
 
-📄 **[View Full Penetration Testing Report](Report/Kwabena_Ansah-Amtwi_W2-PM1_W2-PM5_Report_B084.pdf)**)
+📄 **[View Full Penetration Testing Report](Report/Chelsea_Ribeiro_W2-PM1_W2-PM5_Report_B084J.pdf)**)
